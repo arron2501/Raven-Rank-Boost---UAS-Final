@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Raven Rank Boost</string>
+    <string name="create_account"><u>CREATE ACCOUNT</u></string>
+    <string name="already_signed_up"><u>ALREADY SIGNED UP?</u></string>
+    <string name="manage_your_profile"><u>Manage your profile</u></string>
+    <string name="i_agree_with_the_terms_conditions"><u><![CDATA[I agree with the terms of service]]></u></string>
+    <string name="account_details"><u>ACCOUNT DETAILS :</u></string>
+    <string name="reset"><u>RESET</u></string>
+    <string name="terms_of_service"><u>TERMS OF SERVICE</u></string>
+    <string name="privacy_notice"><u>PRIVACY NOTICE</u></string>
+    <string name="detail_orders">DETAIL ORDERS :</string>
+    <string name="if_you_need_help_about_anything_you_can_leave_the_message_using_email_or_whatsapp_with_the_button_bellow">If you need help about anything, you can leave the message using email or WhatsApp with the button bellow</string>
+    <string name="email_us">EMAIL US</string>
+    <string name="whatsapp_us">WHATSAPP US</string>
+    <string name="new_order">New Order</string>
+    <string name="list_order">List Order</string>
+    <string name="notification">Notification</string>
+    <string name="how_to_order">HOW TO ORDER</string>
+    <string name="valorant_news">VALORANT NEWS</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="we_will_boost_your_rank_as_you_wish_as_you_want">WE WILL BOOST YOUR RANK AS YOU WISH, AS YOU WANT</string>
+    <string name="_100_money_back_guarantee">100% MONEY BACK GUARANTEE</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="subtotal">SUBTOTAL :</string>
+    <string name="idr_0">IDR 0,-</string>
+    <string name="eta">ETA :</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="your_orders">YOUR ORDERS :</string>
+    <string name="raven_rank_boost_terms_of_service">RAVEN RANK BOOST\nTERMS OF SERVICE</string>
+    <string name="terms_of_service_desc">
+        RAVEN RANK BOOST TERMS OF SERVICE :
+        \n\n\nPASAL 1. DEFINISI-DEFINISI
+        \n\n•	Aplikasi Raven Rank Boost adalah aplikasi perangkat lunak yang dapat diakses melalui Smartphone yang dapat digunakan untuk menyediakan jasa peningkatan rank dalam permainan Valorant
+        \n•	Smartphone adalah telepon selular genggam dengan sistem operasi Android/IOS yang dapat digunakan untuk menjalankan aplikasi Raven Rank Boost
+        \n•	Layanan Boost Rank adalah layanan yang tersedia di Raven Rank Boost yang meliputi:
+        \na.	Pengelolaan akun dari Valorant dari customer
+        \nb.	Sarana komunikasi atau pembagian data yang berkaitan dengan layanan rank boost antara penjoki dan customer.
+
+        \n\nPASAL 2. PENDAFTARAN AKUN
+        \n\n•	Sebelum anda menginstall dan menggunakan layanan Raven Rank Boost pada aplikasi ini, anda diwajibkan untuk melakukan registrasi atau pendaftaran akun terlebih dahulu. Anda wajib untuk menyampaikan informasi yang benar, tepat dan terbaru dari diri anda.
+        \n•	Dengan melakukan pendaftaran, anda menyetujui dan menerima layanan Raven Rank Boost. Dengan ini, berarti anda telah dianggap menerima seluruh ketentuan dengan tanpa syarat dan tanpa adanya pengecualian dan oleh karenanya, anda sepakat untuk terikat oleh ketentuan termasuk ketika ada perubahan yang mungkin dibuat Raven Rank Boost atas ketentuan ini dikemudian hari.
+        \n•	Anda bertanggun jawab atas akurasi dan kebenerana atas informasi yang anda telah serahkan kepada kami. Data yang anda berikan akan disimpan di Raven Rank Boost dan hanya dapat diakses oleh anda dan penyedia layanan yang bersangkutan. Kami tidak bertanggung jawab atas setiap kerugian yang diderita oleh anda yang disebabkan oleh kesalahan data atau perbaharuan data yang telah anda sediakan.
+        \n•	Anda menyatakan dan menjamin bahwa Anda adalah individu yang sah secara hukum untuk melakukan tindakan hukum untuk masuk ke dalam perjanjian yang mengikat berdasarkan hukum Republik Indonesia, secara khusus Ketentuan Penggunaan, untuk menggunakan Raven Rank Boost
+        \n•	Jika Anda tidak memenuhi ketentuan tersebut namun tetap mengakses MedicTrust, Anda menyatakan dan menjamin bahwa pembukaan akun Anda dan aktivitas lain dalam MedicTrust telah disetujui oleh orang tua atau pengampu Anda. Anda mengesampingkan setiap hak berdasarkan hukum untuk membatalkan atau mencabut setiap dan seluruh persetujuan yang Anda berikan berdasarkan Ketentuan Penggunaan pada waktu Anda dianggap oleh hukum telah dewasa.
+        \n•	Anda secara penuh melepaskan kami dan petugas kami dari kerugian atau konsekuensi yang timbul sehubungan dengan hal tersebut.
+
+        \n\nPASAL 3. KETENTUAN PENGGUNAAN
+        \n\n•	Raven Rank Boost memberikan layanan yang memungkinkan anda untuk berbagi data dengan agen layanan rank boost kami yang ditunjuk oleh anda. Penggunan data dan layanan beserta dengan jasa dan fiturnya akan diatur oleh ketentuan ini.
+        \n•	Layanan tersebut dapat berubah dari waktu ke waktu sebagaimana kami perbaiki, modifikasi ataupun menanbahkan fitur lainnya.Kami dapat menghentikan, menangguhkan, merubah, atau menghilangkan Layanan pada setiap waktu tanpa adanya pemberitahuan kepada Anda.
+        \n•	Penggunaan Anda secara berkelanjutan atas Raven Rank Boost setelah modifikasi, variasi dan/atau perubahan atas Ketentuan Penggunaan merupakan persetujuan dan penerimaan Anda atas modifikasi, variasi dan/atau perubahan tersebut.
+        \n•	Anda memahami dan setuju bahwa Anda akan tunduk pada Kebijakan Privasi kami sebagaimana dapat dirubah dari waktu ke waktu. Dengan menggunakan Aplikasi, Anda juga memberikan persetujuan sebagaimana dipersyaratkan berdasarkan Kebijakan Privasi kami.
+        \n•	Mohon menginformasikan kepada kami jika Anda tidak lagi memiliki kontrol atas akun Anda, sebagai contoh akun Anda dengan cara bagaimanapun diretas (hack) atau telepon Anda dicuri, dan lainnya sehingga kami dapat membatalkan akun Anda dengan sebagaimana mestinya.
+        \n•	Mohon diperhatikan bahwa Anda bertanggung jawab atas penggunaan akun Anda dan Anda mungkin dapat dimintakan tanggung jawabnya meskipun jika akun Anda tersebut disalahgunakan oleh orang lain.
+
+        \n\nPASAL 4. DATA
+        \n\n•	Anda mengerti bahwa ketika menggunakan Akun Raven Rank Boost, data personal Anda dapat dikumpulkan, digunakan dan/atau diungkapkan oleh Kami sehingga Anda dapat menikmati Layanan Raven Rank Boost sepenuhnya.
+        \n•	Untuk tujuan operasi Akun Raven Rank Boost dan/atau tujuan lain yang Kami anggap pantas, Anda dengan ini memberikan persetujuan kepada Kami untuk mengumpulkan, menggunakan, atau mengungkapkan setiap dan seluruh data personal Anda yang Anda mengerti bahwa bagian dari data atau informasi mengenai Anda dapat diakses oleh agen layan kami melalui aplikasi kami. Kami tidak bertanggung jawab atas setiap kerugian Anda akibat penyalahgunaan oleh pihak ketiga atas data atau informasi Anda yang telah diungkapkan berdasarkan Pasal ini.
+        \n•	Anda mengakui bahwa kami dapat diminta untuk mengungkapkan data personal Anda kepada setiap otoritas  (termasuk otoritas pengadilan atau moneter) berdasarkan hukum dan peraturan perundang-undangan yang berlaku.
+        \n•	Kami dapat mengumpulkan Informasi Personal yang dapat digunakan untuk menghubungi atau mengidentifikasi Anda.
+        \n•	Informasi Personal adalah atau dapat digunakan untuk:
+        \na)	menyediakan dan meningkatkan Layanan kami,
+        \bb)	mengatur penggunaan Layanan,
+        \nc)	untuk melakukan personalisasi,
+        \nd)	untuk menggunakan pembaharuan software dan pengumuman produk.
+        \n•	Kami tidak akan membocorkan atau membuka Data personal Anda kepada pihak lain tanpa persetujuan sebelumnya dari Anda. Kami dengan ini berjanji sebagai berikut:
+        \na)	Untuk memperlakukan Data personal dengan secara rahasia dan tidak membukanya Data tersebut (atau suatu porsi darinya) ke setiap orang kecuali: kepada pegawai Kami berdasarkan need-to-know, dengan syarat bahwa dalam hal tersebut terjadi, Kami akan memberitahukan orang tersebut mengenai Ketentuan ini dan sifat rahasia dari Data.
+        \nb)	Apabila suatu pembukaan harus dilaksanakan sesuai dengan adanya permintaan pengadilan atau perintah pemerintah lainnya, dengan ketentuan bahwa, apabila situasinya memungkinkan, Kami akan memberitahukan pemberitahuan mengenai pembukaan tersebut.
+        \nc)	Data personal Anda dijaga berdasarkan Kebijakan Privasi Kami. Kebijakan Privasi dianggap sebagai bagian yang tidak terpisahkan dari Ketentuan Penggunaan ini dan persetujuan Anda atas Ketentuan Penggunaan ini merupakan penerimaan Anda atas Kebijakan Privasi Kami.
+        \n•	Kewajiban di atas tidak berlaku kepada informasi yang:
+        \na)	terdapat dalam kekuasaan kami sebelum tanggal dimana Data tersebut diberitahukan kepada kami oleh anda.
+        \nb)	telah atau akan menjadi diketahui secara umum melalui publikasi, penggunaan secara komersial atau lainnya selain daripada konsekuensi dari pelanggaran atas Ketentuan ini.
+        \nc)	telah diterima secara sah dari pihak ketiga yang tidak terikat atas ketentuaan kerahasiaan dan melanggar Ketentuan ini.
+
+        \n\nPASAL 5. TANGGUNG JAWAB
+        \n\n•	Anda bertanggung jawab secara pribadi atas setiap aktivitas yang menggunakan akun Anda, untuk menjaga Data dan pembagian Data yang Anda lakukan kepada suatu pihak ketiga. Anda wajib untuk dengan segera memberitahukan Raven Rank Boost mengenai adanya penggunaan akun Anda secara tidak berwenang.
+        \n•	Anda bertanggung jawab untuk menjaga kata sandi yang Anda gunakan untuk mengakses Layanan dan Anda sepakat untuk tidak memberitahukan kata sandi Anda kepada pihak ketiga manapun.
+        \n•	Anda diwajibkan untuk senantiasa memeriksa dan memberikan konfirmasi apakah Data yang diberikan sudah benar.dan Anda bertanggung jawab secara penuh atas keaslian, akurasi, kelengkapan dan/atau legalitas dari setiap jenis Data yang Anda berikan kepada Raven Rank Boost.
+        \n•	Anda akan membebaskan Raven Rank Boost dari segala tuntutan apapun, jika Raven Rank Boost tidak dapat melaksanakan perintah dari Anda baik sebagian maupun seluruhnya karena kejadian-kejadian atau sebab-sebab di luar kekuasaan atau kemampuan Raven Rank Boost, termasuk namun tidak terbatas pada segala gangguan virus computer, bencana alam, perang, huru-hara, keadaan peralatan, sistem atau transmisi yang tidak berfungsi, gangguan listrik, gangguan telekomunikasi dan kebijakan pemerintah.
+
+        \n\nPASAL 6. GANTI RUGI
+        \n\nDengan menggunakan Aplikasi ini, Anda telah meyetujui bahwa Anda akan membela, memberikan ganti rugi dan membebaskan kami, pemberi lisensi, afiliasi, dan masing-masing dari karyawan, pengacara dan agen Kami dari dan terhadap setiap dan semua klaim, biaya, kerusakan, kerugian, kewajiban dan biaya (termasuk biaya dan ongkos pengacara) yang timbul dari atau sehubungan dengan:
+        \n•	Penggunaan Layanan dan/atau Aplikasi oleh Anda, hubungan Anda dengan penyedia layanan, penyedia pihak ketiga, mitra, pemasang iklan dan/atau sponsor;
+        \n•	Pelanggaran atas atau tidak dipatuhinya salah satu Ketentuan Penggunaan atau peraturan perundang-undangan yang berlaku, baik yang disebutkan di sini atau tidak;
+        \n•	Pelanggaran Anda terhadap hak-hak pihak ketiga, termasuk penyedia layanan pihak ketiga yang diatur melalui Aplikasi;
+        \n•	Penggunaan atau penyalahgunaan Aplikasi. Kewajiban pembelaan dan pemberian ganti rugi ini akan tetap berlaku walaupun Ketentuan dan penggunaan Layanan oleh Anda telah berakhir.
+
+        \n\nPASAL 7. DAN LAIN-LAIN
+        \n\n•	Ketentuan ini akan berlaku secara penuh dan mengikat sejak tanggal Anda menerima Ketentuan ini sampai Anda mengakhiri akun atau kami mengakhiri akun Anda di Raven Rank Boost.
+        \n•	Apabila, pada setiap saat, suatu ketentuan dari Ketentuan ini terbukti menjadi atau menjadi illegal, tidak sah, atau tidak dapat dilaksanakan berdasarkan suatu hukum dari suatu jurisdiksi, tidak satupun legalitas, keabsahan atau pelaksaaan dari ketentuan lainnya terkena dampak atau menjadi tidak sah karenanya berdasarkan hukum dari suatu jurisdiksi.
+        \n•	Layanan kami dapat diinterupsi oleh kejadian atau hal tertentu di luar kewenangan dan kontrol kami , termasuk namun tidak terbatas pada bencana alam, gangguan listrik, gangguan telekomunikasi, kebijakan pemerintah, dan hal-hal lainnya yang di luar kewenangan dan kontrol kami. Oleh karenanya maka Anda setuju untuk melepaskan kami dari setiap klaim, jika kami tidak dapat memenuhi instruksi Anda melalui Akun MedicTrust baik sebagian maupun seluruhnya karena Keadaan yang diluar control kami. Jika Keadaan yang diluar control kami tersebut terus berlanjut untuk jangka waktu lebih dari 3 (tiga) bulan berturut-turut kami dapat menutup Akun Raven Rank Boost Anda.
+        \n•	Keselamatan dan keamanan online Anda merupakan hal terpenting bagi kami. Kami memberlakukan standar keamanan yang wajar untuk melindungi data Anda yang sedang dalam proses pengiriman, ketika disimpan dan penggunaan Anda atas Akun Raven Rank Boost atau Layanan Raven Rank Boost. Meskipun demikian, kami hendak menekankan kepada Anda bahwa tidak ada sistem yang tidak dapat ditembus dan hal ini dapat berakibat pada meningkatnya resiko atas informasi Anda dan penggunaan Akun Raven Rank Boost atau Layanan Rven Rank Boost. Oleh karenanya, Anda setuju untuk melepaskan kami dari klaim apapun yang timbul sehubungan dengan virus, kerusakan, gangguan, atau bentuk lain dari gangguan sistem, termasuk akses tanpa otorisasi oleh pihak ketiga. Kami menganjurkan Anda untuk memberitahu kami segera jika Anda mengalami gangguan sistem apapun sebagaimana disebutkan di atas sehingga kami dapat berusaha memperbaiki gangguan tersebut.
+
+    </string>
+    <string name="privacy_notice_desc">
+        RAVEN RANK BOOST Privacy Notice :
+        \n\n\n•	RAVEN membangun aplikasi Raven Rank Boost sebagai aplikasi Gratis. LAYANAN ini disediakan oleh RAVEN tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
+        \n•	Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan kami dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan Layanan kami.
+        \n•	Jika Anda memilih untuk menggunakan Layanan kami, maka Anda menyetujui pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali seperti yang dijelaskan dalam Kebijakan Privasi ini.
+        \n•	Istilah yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama seperti dalam Syarat dan Ketentuan kami, yang dapat diakses di Raven Rank Boost kecuali ditentukan lain dalam Kebijakan Privasi ini.
+
+        \n\nInformation Collection and Use
+        \n\n•	Untuk pengalaman yang lebih baik, saat menggunakan Layanan kami, kami mungkin meminta Anda untuk memberikan kami informasi identitas pribadi tertentu. Informasi yang kami minta akan disimpan di perangkat Anda dan tidak akan kami kumpulkan secara pribadi dengan cara apa pun.
+        \n•	Aplikasi memang menggunakan layanan pihak ketiga yang dapat mengumpulkan informasi yang digunakan untuk mengidentifikasi Anda.
+
+        \n\nLog Data
+        \n\nKami ingin memberi tahu Anda bahwa setiap kali Anda menggunakan Layanan kami, jika terjadi kesalahan dalam aplikasi, kami mengumpulkan data dan informasi (melalui produk pihak ketiga) di ponsel Anda yang disebut Data Log. Data Log ini dapat mencakup informasi seperti alamat Protokol Internet ("IP") perangkat Anda, nama perangkat, versi sistem operasi, konfigurasi aplikasi saat menggunakan Layanan kami, waktu dan tanggal penggunaan Anda atas Layanan, dan statistik lainnya.
+
+        \n\nCookies
+        \n\nCookie adalah file dengan sejumlah kecil data yang biasanya digunakan sebagai pengenal unik anonim. Ini dikirim ke browser Anda dari situs web yang Anda kunjungi dan disimpan di memori internal perangkat Anda.
+        \nLayanan ini tidak menggunakan "cookie" ini secara eksplisit. Namun, aplikasi dapat menggunakan kode dan pustaka pihak ketiga yang menggunakan "cookie" untuk mengumpulkan informasi dan meningkatkan layanan mereka. Anda memiliki opsi untuk menerima atau menolak cookie ini dan mengetahui kapan cookie dikirim ke perangkat Anda. Jika Anda memilih untuk menolak cookie kami, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan ini.
+
+        \n\nService Providers
+        \n\nKami dapat mempekerjakan perusahaan pihak ketiga dan individu karena alasan berikut:
+        \n•	Untuk memfasilitasi Layanan kami;
+        \n•	Untuk menyediakan Layanan atas nama kami;
+        \n•	Untuk melakukan layanan terkait Layanan; atau
+        \n•	Untuk membantu kami dalam menganalisis bagaimana Layanan kami digunakan.
+        \nKami ingin memberi tahu pengguna Layanan ini bahwa pihak ketiga ini memiliki akses ke Informasi Pribadi Anda. Alasannya adalah untuk melakukan tugas yang diberikan kepada mereka atas nama kami. Namun, mereka berkewajiban untuk tidak mengungkapkan atau menggunakan informasi tersebut untuk tujuan lain apa pun.
+
+        \n\nSecurity
+        \n\nKami sangat menghargai kepercayaan Anda dalam memberikan Informasi Pribadi Anda kepada kami, oleh karena itu kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindunginya. Tetapi ingat bahwa tidak ada metode transmisi melalui internet, atau metode penyimpanan elektronik yang 100% aman dan andal, dan kami tidak dapat menjamin keamanan absolutnya.
+
+        \n\nChildren’s Privacy
+        \n\nLayanan ini tidak ditujukan kepada siapa pun yang berusia di bawah 13 tahun. Kami tidak dengan sengaja mengumpulkan informasi yang dapat diidentifikasi secara pribadi dari anak-anak di bawah 13 tahun. Jika Kami menemukan bahwa seorang anak di bawah 13 tahun telah memberi informasi pribadi, Kami segera menghapusnya dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui bahwa anak Anda telah memberi kami informasi pribadi, silakan hubungi Kami sehingga Kami dapat melakukan tindakan yang diperlukan.
+
+        \n\nChanges to This Privacy Policy
+        \n\nKami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Dengan demikian, Anda disarankan untuk meninjau halaman ini secara berkala untuk setiap perubahan. Kami akan memberi tahu Anda tentang perubahan apa pun dengan memposting Kebijakan Privasi baru di halaman ini.
+        \nKebijakan ini berlaku mulai 2020-11-29.
+
+        \n\nContact Us
+        \n\nJika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi saya, jangan ragu untuk menghubungi saya di arron2501@gmail.com
+
+    </string>
+    <string name="raven_rank_boost_privacy_notice">RAVEN RANK BOOST\nPRIVACY NOTICE</string>
+    <string name="what_they_said_about_us">WHAT THEY SAID ABOUT OUR SERVICE</string>
+</resources>

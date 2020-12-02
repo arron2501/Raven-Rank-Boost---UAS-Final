@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.ListOrder.ListOrderActivity"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/head_cover_listorder"/>
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="72dp"
+            android:layout_gravity="center"
+            android:src="@drawable/list_order_text"/>
+
+        <ImageView
+            android:id="@+id/btBack"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="30dp"
+            android:src="@drawable/back_button"/>
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/lvListOrder"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:dividerHeight="10sp"
+        android:divider="#fff"
+        android:layout_marginHorizontal="10dp"/>
+
+    <Button
+        android:id="@+id/btSignOut"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/sign_out_button"
+        android:backgroundTint="#fff"
+        android:fontFamily="@font/dinnextltpro_bold"
+        android:text="@string/sign_out"
+        android:visibility="gone"
+        android:textSize="18sp" />
+
+</LinearLayout>

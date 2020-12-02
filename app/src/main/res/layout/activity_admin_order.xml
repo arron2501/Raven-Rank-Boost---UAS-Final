@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".View.AdminOrder.AdminOrderActivity">
+
+    <ImageView
+        android:id="@+id/btBack"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/back_button"
+        app:tint="#000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/dinnextltpro_black"
+            android:text="@string/detail_orders"
+            android:textColor="#FF4654"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tv_Id_Username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/dinnextltpro_regular"
+            android:text="ORDER NO #0001 - NoobMaster69"
+            android:textColor="#000"
+            android:textSize="12sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivCurrentRank"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/bronze_2" />
+
+                <TextView
+                    android:id="@+id/tvCurrentRank"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:fontFamily="@font/anton_regular"
+                    android:singleLine="true"
+                    android:text="BRONZE 2"
+                    android:textAlignment="center"
+                    android:textColor="#000"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/red_arrow" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:id="@+id/ivWantedRank"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/gold_1" />
+
+
+                <TextView
+                    android:id="@+id/tvWantedRank"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:fontFamily="@font/anton_regular"
+                    android:text="GOLD 1"
+                    android:textAlignment="center"
+                    android:textColor="#000"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <Spinner
+            android:id="@+id/spnCurrentRank"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="#f5f5f5"
+            android:focusableInTouchMode="true"
+            android:popupBackground="@drawable/dropdown_box"
+            android:scrollbars="vertical" />
+
+        <Spinner
+            android:id="@+id/spnStatus"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="#f5f5f5" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/match_history_text" />
+
+        <Spinner
+            android:id="@+id/spnMatchResult"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="#f5f5f5" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/etVictory"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#f5f5f5"
+                android:fontFamily="@font/dinnextltpro_medium"
+                android:hint="V"
+                android:inputType="number"
+                android:maxLength="2"
+                android:padding="10dp"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:text="-"
+
+                android:textColor="@color/textColor"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etDefeat"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#f5f5f5"
+                android:fontFamily="@font/dinnextltpro_medium"
+                android:hint="D"
+                android:inputType="number"
+                android:maxLength="2"
+                android:padding="10dp"
+                android:textAlignment="center" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/etKill"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#f5f5f5"
+                android:fontFamily="@font/dinnextltpro_medium"
+                android:hint="K"
+                android:inputType="number"
+                android:maxEms="2"
+                android:maxLength="2"
+                android:padding="10dp"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:maxEms="2"
+                android:text="/"
+                android:textColor="@color/textColor"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etDeath"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#f5f5f5"
+                android:fontFamily="@font/dinnextltpro_medium"
+                android:hint="D"
+                android:inputType="number"
+                android:maxEms="2"
+                android:maxLength="2"
+                android:padding="10dp"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:text="/"
+                android:textColor="@color/textColor"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etAssist"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#f5f5f5"
+                android:fontFamily="@font/dinnextltpro_medium"
+                android:hint="A"
+                android:inputType="number"
+                android:maxEms="2"
+                android:maxLength="2"
+                android:padding="10dp"
+                android:textAlignment="center" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp">
+
+            <TextView
+                android:id="@+id/tvReset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:fontFamily="@font/dinnextltpro_bold"
+                android:text="@string/reset"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/btAdd"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignParentEnd="true"
+                android:elevation="10dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/submit_btn" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

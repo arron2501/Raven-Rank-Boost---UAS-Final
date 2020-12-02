@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginTop="20dp"
+    android:paddingHorizontal="20dp"
+    android:background="@drawable/listbox"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:fontFamily="@font/dinnextltpro_regular"/>
+
+        <TextView
+            android:id="@+id/tvUsername"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:fontFamily="@font/dinnextltpro_regular"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivCurrentRank"
+        android:layout_width="0dp"
+        android:layout_gravity="center_vertical"
+        android:layout_height="30dp"
+        android:layout_weight="0.3"/>
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_gravity="center_vertical"
+        android:layout_height="30dp"
+        android:src="@drawable/arrow"
+        android:layout_weight="0.3"/>
+    <ImageView
+        android:id="@+id/ivWantedRank"
+        android:layout_width="0dp"
+        android:layout_gravity="center_vertical"
+        android:layout_height="30dp"
+        android:layout_weight="0.3"/>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:gravity="end"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:fontFamily="@font/dinnextltpro_regular"
+        android:textSize="12sp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"/>
+
+</LinearLayout>
